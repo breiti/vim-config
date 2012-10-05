@@ -10,6 +10,7 @@ Bundle 'spf13/vim-colors'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'kien/ctrlp.vim'
 Bundle 'vim-scripts/sessionman.vim'
+Bundle 'tpope/vim-fugitive'
 
 " Pretty colors...
 colorscheme solarized
