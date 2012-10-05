@@ -22,3 +22,4 @@ filetype plugin indent on
 
 " Turn on syntax highlighting
 syntax on
+autocmd VimEnter * :if argc() is 0 | execute ":SessionList" | endif
