@@ -8,6 +8,7 @@ call vundle#rc()
 Bundle 'gmarik/vundle'
 Bundle 'spf13/vim-colors'
 Bundle 'flazz/vim-colorschemes'
+Bundle 'kien/ctrlp.vim'
 
 " Pretty colors...
 colorscheme solarized
