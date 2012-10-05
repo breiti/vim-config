@@ -13,6 +13,7 @@ Bundle 'flazz/vim-colorschemes'
 colorscheme solarized
 
 " Pretty font...
+" Get it from: https://github.com/adobe/Source-Code-Pro
 set guifont=Source\ Code\ Pro:h11
 
 filetype plugin indent on
