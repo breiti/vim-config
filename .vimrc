@@ -53,3 +53,7 @@ set hlsearch
 set ignorecase
 " ...but make it case sensitive when typing upper-case.
 set smartcase
+
+" Highlight tabs and trailing whitespace
+set list
+set listchars=tab:→\ ,trail:.
