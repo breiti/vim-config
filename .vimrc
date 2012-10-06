@@ -42,3 +42,14 @@ set hidden
 
 " Show matching brackets/parenthesis
 set showmatch
+
+" Find as you type
+set incsearch
+
+" Highlight search terms
+set hlsearch
+
+" Case insensitive search...
+set ignorecase
+" ...but make it case sensitive when typing upper-case.
+set smartcase
