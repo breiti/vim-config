@@ -37,3 +37,5 @@ set number
 " Store a ton of history (default is 20)
 set history=1000 
 
+" Allow buffer switching without saving
+set hidden
