@@ -33,3 +33,7 @@ set encoding=utf-8
 set laststatus=2
 
 set number
+
+" Store a ton of history (default is 20)
+set history=1000 
+
