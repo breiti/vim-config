@@ -39,3 +39,6 @@ set history=1000
 
 " Allow buffer switching without saving
 set hidden
+
+" Show matching brackets/parenthesis
+set showmatch
