@@ -11,6 +11,7 @@ Bundle 'flazz/vim-colorschemes'
 Bundle 'kien/ctrlp.vim'
 Bundle 'vim-scripts/sessionman.vim'
 Bundle 'tpope/vim-fugitive'
+Bundle 'Lokaltog/vim-powerline'
 
 " Pretty colors...
 colorscheme solarized
@@ -27,3 +28,6 @@ filetype plugin indent on
 " Turn on syntax highlighting
 syntax on
 autocmd VimEnter * :if argc() is 0 | execute ":SessionList" | endif
+
+set encoding=utf-8
+set laststatus=2
