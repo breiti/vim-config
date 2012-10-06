@@ -31,3 +31,5 @@ autocmd VimEnter * :if argc() is 0 | execute ":SessionList" | endif
 
 set encoding=utf-8
 set laststatus=2
+
+set number
