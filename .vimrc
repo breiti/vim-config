@@ -57,3 +57,5 @@ set smartcase
 " Highlight tabs and trailing whitespace
 set list
 set listchars=tab:→\ ,trail:.
+
+let mapleader = ","
