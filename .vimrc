@@ -59,3 +59,10 @@ set list
 set listchars=tab:→\ ,trail:.
 
 let mapleader = ","
+
+" <leader>e: Edit another file in same directory as the current file
+if has("unix")
+    map <leader>e :e <C-R>=expand("%:p:h") . "/" <CR>
+else
+    map <leader>e :e <C-R>=expand("%:p:h") . "\\" <CR>
+endif
