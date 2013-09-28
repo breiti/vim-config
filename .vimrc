@@ -22,8 +22,7 @@ colorscheme solarized
 " Get it from: https://github.com/adobe/Source-Code-Pro
 set guifont=Source\ Code\ Pro:h11
 
-set guioptions-=m  "remove menu bar
-set guioptions-=T  "remove toolbar
+set guioptions=  "remove menu-,tool-, and scrollbars
 
 filetype plugin indent on
 
