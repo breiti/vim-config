@@ -11,6 +11,7 @@ Bundle 'flazz/vim-colorschemes'
 Bundle 'kien/ctrlp.vim'
 Bundle 'vim-scripts/sessionman.vim'
 Bundle 'tpope/vim-fugitive'
+Bundle 'tpope/vim-dispatch'
 Bundle 'Lokaltog/vim-powerline'
 Bundle 'vim-scripts/bufkill.vim'
 
