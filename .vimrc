@@ -12,7 +12,7 @@ Bundle 'kien/ctrlp.vim'
 Bundle 'vim-scripts/sessionman.vim'
 Bundle 'tpope/vim-fugitive'
 Bundle 'tpope/vim-dispatch'
-Bundle 'Lokaltog/vim-powerline'
+Bundle 'bling/vim-airline'
 Bundle 'vim-scripts/bufkill.vim'
 Bundle 'kien/tabman.vim'
 
